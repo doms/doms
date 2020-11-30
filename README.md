@@ -13,7 +13,6 @@
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
 </p>
 
 <p align="center">
@@ -21,7 +20,6 @@
 </p>
 
 <p align="center">
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
   <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
