@@ -1,38 +1,4 @@
 <p align="center">
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
+  Did you know you should always take an extra pair of pants when you go golfing? Just in case you get <i>a hole in one</i>.
+  <img width=35 src="https://static-cdn.jtvnw.net/emoticons/v1/114836/3.0" alt="jebaited" />
 </p>
-
-<p align="center">
-    <img width="550" alt="ok" src="https://user-images.githubusercontent.com/8808097/99896186-05ff9900-2c43-11eb-9cc9-7dc5a5f5cdb0.gif" />
-</p>
-
-<p align="center">
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-  <img alt=":the_jam:" src="https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1" />
-</p>
-
